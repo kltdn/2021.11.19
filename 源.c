@@ -1,17 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-
-/*
-int main()
-{
-	int a[4][4], i, j, k;
-	for (i = 0; i < 4; i++)
-		for (j = 0; j < 4; j++)
-			scanf("%d", &a[i][j]);
-
-}*/
-
 /*
 int n, m, k, i, j, x, y;
 int a[100][100], b[100][100], c[100][100];
@@ -41,7 +30,7 @@ int main()
 		printf("\n");
 	}
 }*/
-//����˷�
+//¾ØÕó³Ë·¨
 
 /*
 int n, m, a[100][100], b[100][100], i, j;
@@ -61,4 +50,4 @@ int main()
 		printf("\n");
 	}
 }*/
-//ͼ����ת
+//Í¼ÏñÐý×ª
